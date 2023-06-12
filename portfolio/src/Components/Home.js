@@ -9,7 +9,7 @@ const Home = () => {
             <p className='home-heading'>
             Tom Parker: Full-Stack Coding
             </p>
-            <img src={img_tom} className='home-image'/>
+            <img src={img_tom} className='home-image' alt='professional portrait of a man with a beard and black shirt'/>
             <br/>
             <div className='home-biotext'>
                 <p>

@@ -1,27 +1,27 @@
 @import '../index.css';
 
-.home-container {
+.contact-container {
     background-color: var(--lighter);
     padding-top: 40px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-
 }
 
-.home-heading {
+.contact-header {
     font-weight: bold;
 }
 
-.home-biotext {
+.contact-form-container {
+    background-color: var(--lighter);
     padding: 20px;
+    height: 100vh;
 }
 
-.home-image {
-    opacity: 0.9;
-    height: 35vh;
-    width: 55vw;
-    border-radius: 5px;
-
+.contact-form {
+    background-color: var(--lighter);
 }
+
+
+
