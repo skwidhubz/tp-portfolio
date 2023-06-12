@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/https://github.com/skwidhubz/tp-portfolio/static/css/main.53291aa0.css",
-    "main.js": "/https://github.com/skwidhubz/tp-portfolio/static/js/main.0b311d0b.js",
+    "main.js": "/https://github.com/skwidhubz/tp-portfolio/static/js/main.cd3cec3a.js",
     "static/js/787.1ed0c42c.chunk.js": "/https://github.com/skwidhubz/tp-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/quiz-tile.png": "/https://github.com/skwidhubz/tp-portfolio/static/media/quiz-tile.c2bdb9167cfc8f95a42d.png",
     "static/media/pownft-tile.png": "/https://github.com/skwidhubz/tp-portfolio/static/media/pownft-tile.54ddb1dcd555607bbaa0.png",
@@ -9,11 +9,11 @@
     "static/media/tom_photo_small.jpg": "/https://github.com/skwidhubz/tp-portfolio/static/media/tom_photo_small.5c727aeb903239fda2a6.jpg",
     "index.html": "/https://github.com/skwidhubz/tp-portfolio/index.html",
     "main.53291aa0.css.map": "/https://github.com/skwidhubz/tp-portfolio/static/css/main.53291aa0.css.map",
-    "main.0b311d0b.js.map": "/https://github.com/skwidhubz/tp-portfolio/static/js/main.0b311d0b.js.map",
+    "main.cd3cec3a.js.map": "/https://github.com/skwidhubz/tp-portfolio/static/js/main.cd3cec3a.js.map",
     "787.1ed0c42c.chunk.js.map": "/https://github.com/skwidhubz/tp-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53291aa0.css",
-    "static/js/main.0b311d0b.js"
+    "static/js/main.cd3cec3a.js"
   ]
 }
