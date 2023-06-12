@@ -1,0 +1,27 @@
+@import '../index.css';
+
+.home-container {
+    background-color: var(--lighter);
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.home-heading {
+    font-weight: 800;
+}
+
+.home-biotext {
+    padding: 20px;
+}
+
+.home-image {
+    opacity: 0.9;
+    height: 35vh;
+    width: 55vw;
+    border-radius: 5px;
+
+}

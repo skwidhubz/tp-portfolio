@@ -1,0 +1,9 @@
+@import '../index.css';
+
+.nav-heading {
+    color: var(--neutral);
+}
+
+.nav-container {
+    background-color: var(--light);
+}
