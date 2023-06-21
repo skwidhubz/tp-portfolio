@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/tp-portfolio/static/css/main.53291aa0.css",
-    "main.js": "/tp-portfolio/static/js/main.fbb38288.js",
+    "main.css": "/tp-portfolio/static/css/main.27b03eaa.css",
+    "main.js": "/tp-portfolio/static/js/main.0786653a.js",
     "static/js/787.1ed0c42c.chunk.js": "/tp-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/portrait_new.png": "/tp-portfolio/static/media/portrait_new.046b015ab7baabac1c0b.png",
     "static/media/quiz-tile.png": "/tp-portfolio/static/media/quiz-tile.c2bdb9167cfc8f95a42d.png",
     "static/media/pownft-tile.png": "/tp-portfolio/static/media/pownft-tile.54ddb1dcd555607bbaa0.png",
     "static/media/polyflow-tile.png": "/tp-portfolio/static/media/polyflow-tile.07cc8c4a623ae2400974.png",
-    "static/media/tom_photo_small.jpg": "/tp-portfolio/static/media/tom_photo_small.5c727aeb903239fda2a6.jpg",
     "index.html": "/tp-portfolio/index.html",
-    "main.53291aa0.css.map": "/tp-portfolio/static/css/main.53291aa0.css.map",
-    "main.fbb38288.js.map": "/tp-portfolio/static/js/main.fbb38288.js.map",
+    "main.27b03eaa.css.map": "/tp-portfolio/static/css/main.27b03eaa.css.map",
+    "main.0786653a.js.map": "/tp-portfolio/static/js/main.0786653a.js.map",
     "787.1ed0c42c.chunk.js.map": "/tp-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53291aa0.css",
-    "static/js/main.fbb38288.js"
+    "static/css/main.27b03eaa.css",
+    "static/js/main.0786653a.js"
   ]
 }
