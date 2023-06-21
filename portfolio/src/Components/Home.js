@@ -1,5 +1,5 @@
 import React from 'react'
-import img_tom from '../Images/tom_photo_small.jpg';
+import img_tom from '../Images/portrait_new.png';
 import '../Styles/home.css';
 
 const Home = () => {

@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
@@ -9,7 +10,7 @@ import '../Styles/navbar.css';
 
 function Navigation() {
 
-  const tomResume = 'https://drive.google.com/file/d/1BysOQjAWFsNGJb8xq42TazrR2p0kT5NS/view?usp=sharing';
+  const tomResume = 'https://drive.google.com/file/d/1lw-Q4ZbpGMp9Hd4SPhqmqxjBZRQrvYf9/view?usp=sharing';
 
   return (
     <Navbar className='nav-container' expand="lg">
