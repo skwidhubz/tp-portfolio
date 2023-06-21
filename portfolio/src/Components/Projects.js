@@ -18,7 +18,7 @@ function Projects() {
           <Carousel.Caption>
               <div className='carousel-text'>
               <h3>polyflow</h3>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+              <p>Inspire curiosity and engage creativity</p>
               </div>
           </Carousel.Caption>
         </Carousel.Item>
@@ -47,7 +47,7 @@ function Projects() {
               <div className='carousel-text'>
                   <h3>Coding Quiz</h3>
                   <p>
-                      Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                      A web based coding quiz in vanilla JS.
                   </p>
               </div>
           </Carousel.Caption>
