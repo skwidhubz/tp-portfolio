@@ -15,23 +15,30 @@
 }
 
 .home-biotext {
+    margin-left: 100px;
+    margin-right: 100px;
     padding: 20px;
 }
 
 .home-image {
     opacity: 0.9;
-    height: 600px;
-    width: 500px;
+    height: 500px;
+    width: 400px;
     border-radius: 5px;
 
 }
 
 @media only screen and (max-width: 767px) {
 
+    .home-biotext {
+        font-size: small;
+        padding: 1px;
+    }
+
     .home-image {
         opacity: 0.9;
-        height: 35vh;
-        width: 55vw;
+        height: 25vh;
+        width: 45vw;
         border-radius: 5px;
     
     }

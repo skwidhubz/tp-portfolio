@@ -17,38 +17,37 @@ function Projects() {
           />
           <Carousel.Caption>
               <div className='carousel-text'>
-              <h3>polyflow</h3>
-              <p>Inspire curiosity and engage creativity</p>
+              <a href='https://poly-flow.herokuapp.com/'><h3>polyflow</h3></a>
+              <p>Inspire curiosity and engage creativity.</p>
               </div>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="img-projects d-block w-100"
             src={img_pow}
             alt="powNFT tile"
           />
 
           <Carousel.Caption>
               <div className='carousel-text'>
-              <h3>powNFT</h3>
-              <p>The worlds first mineable NFT</p>
+              <a href='https://www.pownft.com/collection'><h3>powNFT</h3></a>
+              <p>The worlds first mineable NFT.</p>
+              <p>(Development and coding of music generation in JS) </p>
               </div>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item>
           <img
-            className="d-block w-100"
+            className="img-projects d-block w-100"
             src={img_quiz}
             alt="quiz tile"
           />
 
           <Carousel.Caption>
               <div className='carousel-text'>
-                  <h3>Coding Quiz</h3>
-                  <p>
-                      A web based coding quiz in vanilla JS.
-                  </p>
+                  <a href='https://skwidhubz.github.io/coding-quiz-tmp/'><h3>Coding Quiz</h3></a>
+                  <p>A web based coding quiz in vanilla JS.</p>
               </div>
           </Carousel.Caption>
         </Carousel.Item>
