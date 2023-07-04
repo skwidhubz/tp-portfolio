@@ -25,8 +25,8 @@ function Navigation() {
               <NavDropdown.Item href={tomResume} target="_blank" rel="noopener noreferrer">Resume</NavDropdown.Item>
               <NavDropdown.Item href="https://github.com/skwidhubz/" target="_blank">GitHub</NavDropdown.Item>
               <NavDropdown.Item href="https://www.linkedin.com/in/tom-parker-82608b13a/" target="_blank">LinkedIn</NavDropdown.Item>
-              <NavDropdown.Divider />
-              <NavDropdown.Item href="/contact">Contact</NavDropdown.Item>
+              {/* <NavDropdown.Divider />
+              <NavDropdown.Item href="/contact">Contact</NavDropdown.Item> */}
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
