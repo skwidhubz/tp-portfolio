@@ -13,10 +13,10 @@ const Home = () => {
             <br/>
             <div className='home-biotext'>
                 <p>
-                I have a strong foundation in programming languages such as HTML, CSS, JavaScript, Node.js and React. I am passionate about web development, security and learning new technologies.
+                I love to code! Wether it's building from scratch, refactoring or going on a mission to debug, all of it is fascinating to me.  
                 </p>
                 <p>
-                I thrive in team environment and enjoy collaborating with other people to solve complex problems, deliver projects on time and am always seeking to improve my skills.
+                My personal development projects are a blend of creativity and functionality and I am always eager to learn new languages or protocols. 
                 </p>
             </div>
         </div>
@@ -25,3 +25,4 @@ const Home = () => {
 }
 
 export default Home;
+
