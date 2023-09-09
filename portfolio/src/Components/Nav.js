@@ -10,7 +10,7 @@ import '../Styles/navbar.css';
 
 function Navigation() {
 
-  const tomResume = 'https://drive.google.com/file/d/1lw-Q4ZbpGMp9Hd4SPhqmqxjBZRQrvYf9/view?usp=sharing';
+  const tomResume = 'https://drive.google.com/file/d/1hyW0b33RGyaRv_4M_-CgUJGjY9Q4F9EV/view?usp=sharing';
 
   return (
     <Navbar className='nav-container' expand="lg">
