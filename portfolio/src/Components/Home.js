@@ -1,5 +1,6 @@
 import React from 'react'
 import img_tom from '../Images/portrait_new.png';
+import img_alt from '../Images/ponder_profile.jpg';
 import '../Styles/home.css';
 
 const Home = () => {
@@ -9,7 +10,7 @@ const Home = () => {
             <p className='home-heading'>
             Tom Parker: Full-Stack Coding
             </p>
-            <img src={img_tom} className='home-image' alt='professional portrait of a man with a beard and black shirt'/>
+            <img src={img_alt} className='home-image' alt='professional portrait of a man with a beard and black shirt'/>
             <br/>
             <div className='home-biotext'>
                 <p>
