@@ -51,20 +51,6 @@ function Projects() {
               </div>
           </Carousel.Caption>
         </Carousel.Item>
-        <Carousel.Item>
-          <img
-            className="img-projects d-block w-100"
-            src={img_quiz}
-            alt="quiz tile"
-          />
-
-          <Carousel.Caption>
-              <div className='carousel-text'>
-                  <a href='https://skwidhubz.github.io/coding-quiz-tmp/'><h3>Coding Quiz</h3></a>
-                  <p>A web based coding quiz in vanilla JS.</p>
-              </div>
-          </Carousel.Caption>
-        </Carousel.Item>
       </Carousel>
     </div>
   );
