@@ -14,10 +14,13 @@ const Home = () => {
             <br/>
             <div className='home-biotext'>
                 <p>
-                I love to code! Wether it's building from scratch, refactoring or going on a mission to debug, all of it is fascinating to me.  
+                Wether it's in construction, coding, running events or everyday life, I love to engineer solutions to problems!  
                 </p>
                 <p>
-                My personal development projects are a blend of creativity and functionality and I am always eager to learn new languages or protocols. 
+                For many years I dreamt of working within computer systems and code, and now I am working toward a lifelong career in cyber security and software/web development.
+                </p>
+                <p>
+                My personal development projects are a blend of creativity and functionality and I am always eager to learn new skills, languages or protocols. 
                 </p>
             </div>
         </div>
