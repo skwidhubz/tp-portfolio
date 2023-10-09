@@ -8,7 +8,7 @@ const Home = () => {
         <>
         <div className='home-container'>
             <p className='home-heading'>
-            Tom Parker: Full-Stack Coding
+            Tom Parker: Full-Stack Coding & Cyber Security
             </p>
             <img src={img_alt} className='home-image' alt='professional portrait of a man with a beard and black shirt'/>
             <br/>
