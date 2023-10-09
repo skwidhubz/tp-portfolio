@@ -14,7 +14,7 @@ const Home = () => {
             <br/>
             <div className='home-biotext'>
                 <p>
-                Wether it's in construction, coding, running events or everyday life, I love to engineer solutions to problems!  
+                Wether it's in analytics, construction, coding, running large events or everyday life; I love to engineer solutions to problems!  
                 </p>
                 <p>
                 For many years I dreamt of working within computer systems and code, and now I am working toward a lifelong career in cyber security and software/web development.
