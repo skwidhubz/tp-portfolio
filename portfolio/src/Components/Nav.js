@@ -20,8 +20,8 @@ function Navigation() {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="/projects">Projects</Nav.Link>
-            <NavDropdown title="Info" id="basic-nav-dropdown">
+            <Nav.Link href="/projects" className='button-nav'>Projects</Nav.Link>
+            <NavDropdown title="Info" id="basic-nav-dropdown" className='button-nav'>
               <NavDropdown.Item href={tomResume} target="_blank" rel="noopener noreferrer">Resume</NavDropdown.Item>
               <NavDropdown.Item href="https://github.com/skwidhubz/" target="_blank">GitHub</NavDropdown.Item>
               <NavDropdown.Item href="https://www.linkedin.com/in/tom-parker-82608b13a/" target="_blank">LinkedIn</NavDropdown.Item>
