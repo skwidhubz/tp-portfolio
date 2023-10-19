@@ -12,6 +12,9 @@ function Navigation() {
 
   const tomResume = 'https://docs.google.com/document/d/1M_bwVmEvrHat0LGX5rZD1Z7XyLHRP7tkhVr2HEmRVEk/edit?usp=sharing';
 
+//  TODO
+//  Link classes outside of framework to change animation 
+
   return (
     <Navbar className='nav-container' expand="lg">
       <Container>
