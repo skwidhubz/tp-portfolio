@@ -19,7 +19,7 @@ function Navigation() {
     <Navbar className='nav-container' expand="lg">
       <Container>
 
-        <Navbar.Brand href="/" className='nav-heading'>TMP-IT 💻</Navbar.Brand>
+        <Navbar.Brand href="/" className='nav-heading'>Tom Parker 💻</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto">
