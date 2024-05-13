@@ -9,49 +9,19 @@ function Projects() {
   return (
     <div className='projects-container'> 
       {/* <span className="projects-header">PROJECTS</span> */}
-      <Carousel>
-      <Carousel.Item>
-          <img
-            className="img-projects d-block w-100"
-            src={img_bot}
-            alt="a robot pointing to the telegram logo"
-          />
-          <Carousel.Caption>
-              <div className='carousel-text'>
-              <a href='https://github.com/skwidhubz/telegram-ultra-bot'><h3>Telegram Ultra Bot</h3></a>
-              <p>Bot for Telegram to post to channels or respond to DM's</p>
-              </div>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <img
-            className="img-projects d-block w-100"
-            src={img_poly}
-            alt="polyflow"
-          />
-          <Carousel.Caption>
-              <div className='carousel-text'>
-              <a href='https://poly-flow.herokuapp.com/'><h3>polyflow</h3></a>
-              <p>Inspire curiosity and engage creativity.</p>
-              </div>
-          </Carousel.Caption>
-        </Carousel.Item>
-        <Carousel.Item>
-          <img
-            className="img-projects d-block w-100"
-            src={img_pow}
-            alt="powNFT tile"
-          />
 
-          <Carousel.Caption>
-              <div className='carousel-text'>
-              <a href='https://www.pownft.com/collection'><h3>powNFT</h3></a>
-              <p>The worlds first mineable NFT.</p>
-              <p>(Development and coding of music generation in JS) </p>
-              </div>
-          </Carousel.Caption>
-        </Carousel.Item>
-      </Carousel>
+      <div className="project-box">
+        <img
+          className="img-projects d-block w-100"
+          src={img_pow}
+          alt="powNFT tile"
+        />
+        <div className='carousel-text'>
+          <a href='https://www.pownft.com/collection'><h3>powNFT</h3></a>
+          <p>The worlds first mineable NFT.</p>
+          <p>(Development and coding of music generation in JS) </p>
+        </div>
+      </div>
     </div>
   );
 }
